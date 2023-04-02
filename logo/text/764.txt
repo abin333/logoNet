@@ -1,0 +1,1 @@
+It consists of a big triangle and a small triangle.

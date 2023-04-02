@@ -1,0 +1,1 @@
+a cuboid-like pattern composed of orange arcs like 'm' and blue arcs like 'c'

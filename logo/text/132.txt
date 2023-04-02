@@ -1,0 +1,1 @@
+a black '6' overlaps with a slanting white '6'

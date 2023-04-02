@@ -1,0 +1,1 @@
+black 'B' and 'T', with a black 'C' on the left

@@ -1,0 +1,1 @@
+An inverted triangle, and its left half looks like a letter 'G'.

@@ -1,0 +1,1 @@
+A light bulb is formed by a line that gradients from blue to green.

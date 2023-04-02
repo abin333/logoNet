@@ -1,0 +1,1 @@
+A blue circle with a corner missing has an orange triangle in the gap.

@@ -1,6 +1,6 @@
 # logoNet
 
-1. logo sketch dataset
+## 1. logo sketch dataset
 
 We have collected an instance-level logo sketch dataset, which contains a total of 2,000 logo instances. We have also collected three or more corresponding sketches
 for each logo to capture the variability of painting ability and style, leading to a total of 9,347 sketches. In addition, we also provide 2,000 text labels for each
@@ -50,7 +50,7 @@ requirements for human sketch painting ability but also improves the retrieval a
 
 
 
-2. instance-level logo sketch retrieval model
+## 2. instance-level logo sketch retrieval model
 
 We develop a triple-branch network based on hybrid attention mechanism termed logoNet for fine-grained logo sketch retrieval. The following figure illustrates
 the overall framework of LogoNet. In the triple-branch network, large-kernel convolutions are followed by CNN backbone with hybrid attention mechanism embedded.
@@ -74,16 +74,7 @@ tends to output the logo image of that color.
 ![image](https://user-images.githubusercontent.com/87791730/230392082-999f5010-94c9-4eb6-982f-5c9ad71bc675.png)
 
 
-
-
-
-The file VGG_logo_model_best.pth above is our trained model.
-
-
-
-
-
-Citations
+## Citations
 
 @articles{logoNet2023,
 
@@ -96,3 +87,6 @@ journal={arXiv perprint arXiv:4827887, 2023.},
 year={2023}
 
 }
+
+## The file VGG_logo_model_best.pth above is our trained model.
+

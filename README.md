@@ -75,3 +75,21 @@ tends to output the logo image of that color.
 
 
 
+
+Citations
+
+
+@articles{logoNet2023,
+
+title={LogoNet: a fine-grained network for instance-level logo sketch retrieval},
+
+author={Binbin Feng, Jun Li, Jianhua Xu},
+
+journal={arXiv perprint arXiv:4827887, 2023.},
+
+year={2023}
+
+}
+
+The file VGG_logo_model_best.pth above is our trained model.
+

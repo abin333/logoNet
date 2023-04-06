@@ -77,10 +77,13 @@ tends to output the logo image of that color.
 
 
 
+The file VGG_logo_model_best.pth above is our trained model.
+
+
+
 
 
 Citations
-
 
 @articles{logoNet2023,
 
@@ -93,6 +96,3 @@ journal={arXiv perprint arXiv:4827887, 2023.},
 year={2023}
 
 }
-
-The file VGG_logo_model_best.pth above is our trained model.
-

@@ -1,0 +1,1 @@
+A circle in the middle, two semicircles on the left, two semicircles on the right and a quarter arc.

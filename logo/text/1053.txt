@@ -1,0 +1,1 @@
+A hexagon containing the letters y and c without line segments on both sides.

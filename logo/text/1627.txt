@@ -1,0 +1,1 @@
+A score board with 100 points on it

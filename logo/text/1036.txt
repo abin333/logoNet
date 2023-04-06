@@ -1,0 +1,1 @@
+A notched M that changes from orange to red from left to right intersects with a C that changes from orange to red from one end to the other.

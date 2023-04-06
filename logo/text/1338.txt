@@ -1,0 +1,1 @@
+A yellow triangle composed of three polylines

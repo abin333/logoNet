@@ -1,0 +1,1 @@
+A green square with a gap has five green vertical lines at the gap, and there are eight green arcs of different sizes in the square.

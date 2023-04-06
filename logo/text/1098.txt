@@ -1,0 +1,1 @@
+Two overlapping purple squares that are not hooked at the intersection.

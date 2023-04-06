@@ -1,0 +1,1 @@
+A red down arrow polyline and a green up arrow polyline are center symmetric, and between them there is a center symmetric zigzag line that turns from red to green.
